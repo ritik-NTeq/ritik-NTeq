@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working on **GenAI and Backend Technologies**
 
-- 📫 How to reach me **1312.ritik@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritik-ranjan-04178718b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-ranjan-04178718b" height="30" width="40" /></a>
